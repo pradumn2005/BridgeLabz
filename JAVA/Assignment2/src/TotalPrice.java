@@ -13,4 +13,7 @@ public class TotalPrice {
         double totalPrice = unitPrice * quantity;
 
         System.out.println("The total purchase price is INR " + totalPrice +
-                " if the quantity " + quant
+                " if the quantity " + quantity +
+                " and unit price is INR " + unitPrice);
+    }
+}
