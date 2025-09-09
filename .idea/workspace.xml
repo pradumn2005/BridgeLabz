@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce8480af-cc41-47f1-b111-e3ae452c56c3" name="Changes" comment="" />
+    <list default="true" id="ce8480af-cc41-47f1-b111-e3ae452c56c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/ChocolateDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/MaxHandshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/NumberSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/RemainderQuotient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/SmallestLargestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/SpringSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/SumOfNaturals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/TriangularParkRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/TrigonometryFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 1/WindChillTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/LeapYearCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/NumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/StudentVoteChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/SumNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/UnitConverter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/UnitConverter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 2/UnitConverter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/FootballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/NumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/NumberChecker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/NumberChecker3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/NumberChecker4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/JAVA METHODS/Java Methods Level 3/NumberChecker5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;core-java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/PRADUMN GUPTA/OneDrive/Desktop/BridgeLabz/JAVA METHODS/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -55,6 +84,11 @@
           <url>file://$PROJECT_DIR$/JAVA/JAVA STRINGS/ToLower.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA METHODS/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
